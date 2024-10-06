@@ -1,6 +1,6 @@
 # React Practice Management App
 
-Live version here:
+Live version here: https://mctintor-practice-management-react-ap.netlify.app/
 
 This is a simple practice management application built using React, Tailwind CSS, and Vite. The app is designed to help manage and track practice-related information efficiently.
 
